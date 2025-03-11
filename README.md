@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi there, I'm Lynn 👋  
 
-<!--
-**Lynn-Wanjiru/Lynn-Wanjiru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 *Full-Stack Developer | React | WordPress | PHP*  
+🔹 Passionate about building modern web applications and user-friendly designs.  
+🔹 Skilled in *JavaScript, React, WordPress, PHP, Tailwind CSS, MySQL*.  
+🔹 Currently working on freelancing and personal projects.  
 
-Here are some ideas to get you started:
+## 🌱 Current Projects   
+- *Personal Budget Tracker* (React, Firebase)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Skills & Tech Stack  
+*Frontend:* HTML, CSS, Tailwind CSS, JavaScript, React,Next.js, Framer Motion 
+*Backend:* PHP, Node.js, Express.js  
+*Database:* MySQL, MongoDB  
+*CMS:* WordPress  
+*Tools:* Git, GitHub, XAMPP, Postman, Figma  
+
+## 📫 Connect with Me  
+🔗 [GitHub](https://github.com/Lynn-Wanjiru)  
+🔗 [LinkedIn](https://www.linkedin.com/in/carolyne-wanjiru-277190250)  
+
+---
+✨ Let's build something amazing together!
